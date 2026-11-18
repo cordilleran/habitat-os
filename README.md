@@ -1,2 +1,2 @@
 # habitat-os
-Skills and workflows I've tested out
+Skills and workflows for my learning and development habitat
